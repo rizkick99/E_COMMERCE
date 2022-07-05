@@ -1,4 +1,4 @@
-# Toko Sayur 22
+#Toko Sepatu Rizki Store
 
 
 
@@ -18,8 +18,8 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
-password: qwerty
+username: admin	
+password: admin123
 - Customer:
-username: agungtr
-password: qwerty
+username: admin123
+password: password123
